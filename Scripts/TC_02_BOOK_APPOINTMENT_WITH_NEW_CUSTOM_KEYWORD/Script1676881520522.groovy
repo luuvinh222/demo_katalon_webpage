@@ -6,8 +6,8 @@ import webUICustomKeywords.Common as Common
 
 
 WebUI.comment("TC_02_BOOK_A_APPOINTMENT")
-//WebUI.openBrowser('')
-//WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.openBrowser('')
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
 WebUI.comment("Step 1: Navigate to login page")
 // Click to button: Make Appointment
